@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :mailbox_with_mail: Contacts
-[![Tistroy Blog Badge](http://img.shields.io/badge/-Tistroy%20blog-black?style=flat-square&logo=Tistroy&link=https://tin9-d-d-blog.tistory.com/)](https://tin9-d-d-blog.tistory.com/)
+[![Tistroy Badge](http://img.shields.io/badge/-Tistroy%20blog-black?style=flat-square&logo=Tistroy&link=https://tin9-d-d-blog.tistory.com/)](https://tin9-d-d-blog.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:latin9@naver.com)](mailto:latin9@naver.com)
 
 <img alt="tistory" src
