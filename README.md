@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ="https://img.shields.io/badge/C++-825794?&style=for-the-badge&logo=C&logoColor=white"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=latin)](https://solved.ac/latin)
-  
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latin9&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latin9&layout=compact&theme=tokyonight)
+</p>
