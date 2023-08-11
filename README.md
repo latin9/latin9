@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 <img alt="tistory" src
 ="https://img.shields.io/badge/tistory-000000?&style=for-the-badge&logo=tistory&logoColor=white"/> <img alt="C" src
 ="https://img.shields.io/badge/C-7F52FF?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src
 ="https://img.shields.io/badge/C++-825794?&style=for-the-badge&logo=C&logoColor=white"/>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=latin)](https://solved.ac/latin)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latin9&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latin9&layout=compact&theme=tokyonight)
-</div>
