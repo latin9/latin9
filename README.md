@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ="https://img.shields.io/badge/C++-825794?&style=for-the-badge&logo=C&logoColor=white"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=latin)](https://solved.ac/latin)
+
 <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latin9&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latin9&layout=compact&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latin9&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latin9&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
