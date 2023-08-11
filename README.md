@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ="https://img.shields.io/badge/tistory-000000?&style=for-the-badge&logo=tistory&logoColor=white"/> <img alt="C" src
 ="https://img.shields.io/badge/C-7F52FF?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src
 ="https://img.shields.io/badge/C++-825794?&style=for-the-badge&logo=C&logoColor=white"/>
-</div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latin9&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latin9&layout=compact&theme=tokyonight)
+</div>
