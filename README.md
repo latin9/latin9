@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# :mailbox_with_mail: Contacts
+[![Tistroy Blog Badge](http://img.shields.io/badge/-Tistroy%20blog-black?style=flat-square&logo=Tistroy&link=https://tin9-d-d-blog.tistory.com/)](https://tin9-d-d-blog.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:latin9@naver.com)](mailto:latin9@naver.com)
+
 <img alt="tistory" src
 ="https://img.shields.io/badge/tistory-000000?&style=for-the-badge&logo=tistory&logoColor=white"/> <img alt="C" src
 ="https://img.shields.io/badge/C-7F52FF?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src
 ="https://img.shields.io/badge/C++-825794?&style=for-the-badge&logo=C&logoColor=white"/>
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=latin)](https://solved.ac/latin)
 
